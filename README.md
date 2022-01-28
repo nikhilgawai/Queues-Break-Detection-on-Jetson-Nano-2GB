@@ -1,5 +1,5 @@
 
-# Queue Detection on Yolov5 using Jetson Nano 2gb Developer Kit.
+# Queue Detection on Jetson Nano 2GB Developer Kit using  Yolov5.
 
 Queue detection system which will detect a group of people in a single file or line
 and if not in single line it will notify on the viewfinder.
@@ -130,7 +130,13 @@ supports all Jetson modules.
 
 ## jetson Nano 2GB
 
-![IMG_20220125_115056](https://user-images.githubusercontent.com/89011801/151317160-cd7a5b15-c2fd-4a1b-8e41-13f8c4f93bb4.jpg)
+
+
+https://user-images.githubusercontent.com/89011801/151482336-9988bc85-6df2-4a59-89de-861559ec3a7a.mp4
+
+
+
+
 
 
 ## Proposed System
@@ -307,7 +313,7 @@ sudo python3 detect.py --weights yolov5s.pt --source 0
 train your model on colab and download the weights and past them into yolov5 folder
 link of project
 
-Insert gif or link to demo
+
 
 
 ## Running Queue Detection Model
@@ -375,13 +381,13 @@ also making the chances of them being a regular higher.
 as no human need to keep an eye on Queue.
 ## Refrences
 
-1]Roboflow :- https://roboflow.com/
+#### 1]Roboflow :- https://roboflow.com/
 
-2] Datasets or images used: https://www.gettyimages.ae/photos/queue-of-people?assettype=image&license=rf&alloweduse=availableforalluses&family=creative&phrase=queue%20of%20people&sort=best
+#### 2] Datasets or images used: https://www.gettyimages.ae/photos/queue-of-people?assettype=image&license=rf&alloweduse=availableforalluses&family=creative&phrase=queue%20of%20people&sort=best
 
-3] Google images
+#### 3] Google images
 ## Articles
 
-[1] https://pursuit.unimelb.edu.au/articles/now-we-know-why-we-stand-in-queues
+#### [1] https://pursuit.unimelb.edu.au/articles/now-we-know-why-we-stand-in-queues
 
-[2] https://en.wikipedia.org/wiki/Queue_area
+#### [2] https://en.wikipedia.org/wiki/Queue_area
