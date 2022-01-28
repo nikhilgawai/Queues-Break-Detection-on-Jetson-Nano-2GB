@@ -132,7 +132,10 @@ supports all Jetson modules.
 
 
 
-https://user-images.githubusercontent.com/89011801/151482336-9988bc85-6df2-4a59-89de-861559ec3a7a.mp4
+
+
+
+https://user-images.githubusercontent.com/89011801/151482679-44c58cb4-e50b-4e52-8ef8-7267fb81c557.mp4
 
 
 
@@ -163,11 +166,11 @@ or not.
 
 Queue Detection Module
 
-```bash
-This Module is divided into two parts:
-```
 
-    1] Group Detection
+#### This Module is divided into two parts:
+
+
+#### 1] Group Detection
 
 ➢ Ability to detect the location of a group of people in any input image or frame. The
 output is the bounding box coordinates on the detected group.
@@ -180,7 +183,7 @@ and google images and made our own dataset.
 bounding box image with annotation of whether in Queue or not present in a given
 image.
 
-    2] Queue Detection
+#### 2] Queue Detection
 
 ➢ Recognition of the group of people and whether they are in Queue or not.
 
